@@ -42,9 +42,9 @@ I'm Saeed Talebi,A Web Developer 👨‍💻 who is passionate about technologie
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedtlb&theme=dracula&layout=compact" />
 
 <h2>📫 Reach out</h2>
-<p>The easiest way to contact me is by sending me an <a href="saeedt7879s@gmail.com">Email</a>. But you have several other options available, too.</p>
+<p>The easiest way to contact me is by sending me an <a href="mailto:saeedt7879s@gmail.com">Email</a>. But you have several other options available, too.</p>
 
-<a href="saeedt7879s@gmail.com">
+<a href="mailto:saeedt7879s@gmail.com">
   <img alt="Saeed's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://twitter.com/saeedtlb8">
@@ -59,16 +59,3 @@ I'm Saeed Talebi,A Web Developer 👨‍💻 who is passionate about technologie
 <a href="https://t.me/SaeedTLB1">
   <img alt="Saeed's Telegram" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram" />
 </a>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
